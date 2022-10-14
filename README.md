@@ -7,7 +7,7 @@
 
 <br>
 
-![dark-1](https://raw.githubusercontent.com/sandarutharuneth/spicetify-transparent/main/cover.jpg)
+![dark-1](https://raw.githubusercontent.com/sandarutharuneth/spicetify-transparent/main/cover.png)
 
 
 <br>
