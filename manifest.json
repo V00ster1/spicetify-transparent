@@ -1,0 +1,16 @@
+{
+    "name": "Transparent",
+    "description": "Spicetify Glass Effect Theme",
+    "preview": "https://raw.githubusercontent.com/sandarutharuneth/spicetify-transparent/main/cover.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "include": ["https://raw.githubusercontent.com/sandarutharuneth/spicetify-transparent/main/transparent.js"],
+    "branch": "main",
+    "authors": [
+        {
+            "name": "Sandaru Tharuneth",
+            "url": "https://github.com/sandarutharuneth"
+        }
+    ]
+}
