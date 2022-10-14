@@ -128,7 +128,12 @@ spicetify apply
   <summary><b>Theme is broken, some visual elements are missing, etc.</b></summary>
 <blockquote> Spotify releases updates very frequently, and when that happens, it's common for things to break. Generally, we'll be able to fix these issues, but there are certain issues that are out of our control. If you experience such an issue, please report them via the repository's issues page.
 </details>
-
+  
+## Credits
+  [Nimsandu For the main code.](https://github.com/nimsandu)
+  
 ## License
 
 [MIT License](LICENSE)
+  
+  <p align="center"><a href="https://sandarutharuneth.com">©️ sandarutharuneth</a></p>
