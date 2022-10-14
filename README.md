@@ -117,17 +117,6 @@ spicetify apply
 
 - You can change the accent color in the theme folder's color.ini file.  
 - If you're using Windows, you can hide the window controls by adding the flag `--transparent-window-controls` after Spotify.exe in your Spotify shortcut.  
-
-## Troubleshooting
-<details>
-  <summary><b>Experiencing issues after installing via Spicetify Marketplace?</b></summary>
-<blockquote> If you're experiencing issues after installing the theme via the Spicetify Marketplace, reset it by going to the Spicetify Marketplace settings, then scroll all the way down until you see the "Reset Marketplace" button. After that, proceed to install the theme using the instation methods shown above. </blockquote>
-</details>
-
-<details>
-  <summary><b>Theme is broken, some visual elements are missing, etc.</b></summary>
-<blockquote> Spotify releases updates very frequently, and when that happens, it's common for things to break. Generally, we'll be able to fix these issues, but there are certain issues that are out of our control. If you experience such an issue, please report them via the repository's issues page.
-</details>
   
 ## Credits
   [Nimsandu For the main code.](https://github.com/nimsandu)
