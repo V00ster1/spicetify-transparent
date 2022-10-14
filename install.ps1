@@ -79,6 +79,6 @@ $version = ConvertFrom-StringData $backupVer[0]
 if ($version.version.Length -gt 0) {
   spicetify apply
 } else {
-  spicetify backup apply
+  spicetify backup apply -q
 }
 Write-Host "+ Applied Theme"
